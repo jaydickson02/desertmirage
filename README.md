@@ -37,7 +37,7 @@ We will be using a point buy system to ensure fairness among characters.
 
 Use the following calculator to get your starting stats.  
 
-![Point Buy](https://chicken-dinner.com/5e/5e-point-buy.html)
+[Point Buy](https://chicken-dinner.com/5e/5e-point-buy.html)
 
 Select custom rules and input the following:
 
