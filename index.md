@@ -20,7 +20,7 @@ A significant number of old ruins, lost places of worship and strange creatures 
 
 The story and world building are devised entirely by myself. The general DND mythos is mostly unchanged but the setting is specific and has variations. If you are looking to intertwine your character with the setting its probably best to ask me and I'll help out :)
 
-This is my first time DMing other than the occasional one-shot. So, do bare with me as I get on top of it all!
+This is my first time DMing other than the occasional one-shot. So, do bear with me as I get on top of it all!
 
 We are using the DnD system with a few homebrew rules. Many of which will be familiar to you and others are too better reflect the environmental challenges your characters will face.
 
