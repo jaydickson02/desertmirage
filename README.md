@@ -88,6 +88,7 @@ Knives allow me to raise the stakes of a situation. Try to come up with at least
 * Any discrimination experienced (i.e. fantasy racism) +1 knife
 * Every favoured item/heirloom +1 knife 
 * Every secret your character is keeping +1 knife
+  
 -----
 ### Homebrew Rules
 So, these are not yet entirely worked out, but I'd like to give an idea for what you might expect.
