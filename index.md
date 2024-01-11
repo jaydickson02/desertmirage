@@ -1,10 +1,10 @@
 ### Welcome
 
-Embark on a journey to Scorpions Rest, a city of resplendence, an oasis cradled within the labyrinthine arms of a rugged desert canyon. As the sole beacon of civilisation for countless leagues in every direction, traversing to this sanctuary of sand and stone demands no small measure of courage and grit. Yet, those brave enough to conquer the arid expanse are rewarded with a bustling city teeming with prospects, where whispered secrets lurk beneath the sand-swept streets. Guided here by a weathered parchment—an ancient map bearing little more than the city's name and an enticing limerick—who could resist its call? 
+Embark on a journey to Scorpions Rest, a city of resplendence, an oasis cradled within the labyrinthine arms of a rugged desert canyon. As the sole beacon of civilisation for countless leagues in every direction, traversing to this sanctuary of sand and stone demands no small measure of courage and grit. Yet, those brave enough to conquer the arid expanse are rewarded with a bustling city teeming with prospects, where whispered secrets lurk beneath the sand-swept streets. One of you was guided here by a weathered parchment—an ancient map bearing little more than the city's name and an enticing limerick—who could resist its call? 
 
 Upon entering the sunbaked embrace of Scorpions Rest, tales and myths curl around you like the desert wind. One story, in particular, resonates with the city's denizens, a tale of a city ten times larger than Scorpion's Rest. A city that flickers into existence under the torrid desert sun only to vanish the moment you dare to look away. Some dismiss it as a hallucination, a phantom born from the delirium induced by the desert's blistering heat. Yet others fervently believe in its reality, that this phantom city conceals impenetrable mysteries, forbidden knowledge, and unimaginable wealth—if one can but find the path that leads there. 
 
-As you delve into the enigmas etched on your map, will you also unravel the truth of this spectral city? What trials await you in this arid land, a place as captivating in its stark beauty as it is deadly in its treacherous terrain? Will you master the desert's ruthless challenges and rise to its daunting call? Or shall you join the lamentable ranks of those claimed by the desert, lost forever within its shifting dunes? Only time, and the fickle winds of fate, will tell.
+As you delve into the enigmas prevelant in the Sarab Valley, will you also unravel the truth of this spectral city? What trials await you in this arid land, a place as captivating in its stark beauty as it is deadly in its treacherous terrain? Will you master the desert's ruthless challenges and rise to its daunting call? Or shall you join the lamentable ranks of those claimed by the desert, lost forever within its shifting dunes? Only time, and the fickle winds of fate, will tell.
 
 ### Setting
 
@@ -58,7 +58,7 @@ There is always a pay off to having your character feel like it was part of the 
 
 ##### Character Art
 * Pintrest
-* I have a Midjourney Subscription. I'm happy to work with you to generate your character with it too.
+* I have a Midjourney Subscription. I'm happy to work with you to generate your character art with it.
 
 ##### Background Story
 * Who are you?
@@ -70,7 +70,7 @@ There is always a pay off to having your character feel like it was part of the 
 * What do you know about the setting?
 * Have you been here long or just arrived?
 * What have you been doing if you have been here awhile?
-* How did you survive the trek through the desert?
+* How did you survive the daunting trek through the desert to get here?
 
 ##### Knives
 Knives allow me to raise the stakes of a situation. Try to come up with at least 5 knives for your character. Picking from different categories is ideal.  
