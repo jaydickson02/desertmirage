@@ -37,10 +37,12 @@ We will be using a point buy system to ensure fairness among characters.
 
 Use the following calculator to get your starting stats.  
 
-![Point Buy]([http://url/to/img.png](https://chicken-dinner.com/5e/5e-point-buy.html))
+![Point Buy](https://chicken-dinner.com/5e/5e-point-buy.html)
 
 Select custom rules and input the following:
-![alt text]([http://url/to/img.png](https://cdn.discordapp.com/attachments/982267203149791235/1181998312979706019/image.png?ex=65b13d36&is=659ec836&hm=92d0d785054905936f8931a27bcf5256ac37719fa7a88f38df1760e53c38b2b7&))
+
+![alt text](https://cdn.discordapp.com/attachments/982267203149791235/1181998312979706019/image.png?ex=65b13d36&is=659ec836&hm=92d0d785054905936f8931a27bcf5256ac37719fa7a88f38df1760e53c38b2b7&)
+
 
 ##### Classes
 I'm happy to be flexible with most things in this regard. Let me know if you want to do something different and I'll let you know if it works!
