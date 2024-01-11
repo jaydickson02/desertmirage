@@ -1,5 +1,3 @@
-# The Desert Mirage
-
 ### Welcome
 
 Embark on a journey to Scorpions Rest, a city of resplendence, an oasis cradled within the labyrinthine arms of a rugged desert canyon. As the sole beacon of civilisation for countless leagues in every direction, traversing to this sanctuary of sand and stone demands no small measure of courage and grit. Yet, those brave enough to conquer the arid expanse are rewarded with a bustling city teeming with prospects, where whispered secrets lurk beneath the sand-swept streets. Guided here by a weathered parchment—an ancient map bearing little more than the city's name and an enticing limerick—who could resist its call? 
@@ -32,7 +30,7 @@ The campaign will include role play, combat (of course), mysteries and puzzles. 
 
 -----
 ### Character Rules
-##### Point Buy
+#### Point Buy
 We will be using a point buy system to ensure fairness among characters. 
 
 Use the following calculator to get your starting stats.  
@@ -44,7 +42,7 @@ Select custom rules and input the following:
 ![alt text](https://cdn.discordapp.com/attachments/982267203149791235/1181998312979706019/image.png?ex=65b13d36&is=659ec836&hm=92d0d785054905936f8931a27bcf5256ac37719fa7a88f38df1760e53c38b2b7&)
 
 
-##### Classes
+#### Classes
 I'm happy to be flexible with most things in this regard. Let me know if you want to do something different and I'll let you know if it works!
 
 Definitely allowed:
@@ -53,27 +51,31 @@ Definitely allowed:
 - Spherecasters
 - Most things if you ask!
 
-##### Races
+#### Races
 Most races will be allowed. Again let me know if you want anything *unusual*.
 
-##### Depth
+#### Depth
 There is always a pay off to having your character feel like it was part of the world from the start. So, I encourage you to come up with any interesting ways we could integrate your character into the world and lore. Don't forget to give your character good flaws too.
 
-##### What I want from you
-###### Character Art
+#### What I want from you
+
+##### Character Art
 * Pintrest
 * I have a Midjourney Subscription. I'm happy to work with you to generate your character with it too.
-###### Background Story
+
+##### Background Story
 * Who are you?
 * Where are you from?
 * Your Knives (see below)
-###### Current Story
+
+##### Current Story
 * What are your goals?
 * What do you know about the setting?
 * Have you been here long or just arrived?
 * What have you been doing if you have been here awhile?
 * How did you survive the trek through the desert?
-###### Knives
+
+##### Knives
 Knives allow me to raise the stakes of a situation. Try to come up with at least 5 knives for your character. Picking from different categories is ideal.  
 
 * Every named person your character cares about, living or dead +1 knife
@@ -92,11 +94,11 @@ Knives allow me to raise the stakes of a situation. Try to come up with at least
 -----
 ### Homebrew Rules
 So, these are not yet entirely worked out, but I'd like to give an idea for what you might expect.
-##### Environmental
+#### Environmental
 The desert is deadly to the uninitiated. Maintaining hydration, temperature and keeping stocked on rations is of paramount importance. Additionally, its easy to stand out among the unbroken yellow of the dunes.
 
 Likely, there will be a system of balanced punishment for failing to properly manage these things. Have a think about what your character might know regarding desert survival.
-##### Combat
+#### Combat
 * *Flanking* - The same as we normally do it.
 * *Inspiration* - For particularly juicy role play and creativity with ideas.
 * *Loonytunes Falling* - If made to fall and its not your turn you start falling at the end of your next turn. If you have a means of flight you must pass a relevant check to start flying. Even if normally you would not need too.
