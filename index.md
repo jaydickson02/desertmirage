@@ -6,7 +6,6 @@ Upon entering the sunbaked embrace of Scorpions Rest, tales and myths curl aroun
 
 As you delve into the enigmas etched on your map, will you also unravel the truth of this spectral city? What trials await you in this arid land, a place as captivating in its stark beauty as it is deadly in its treacherous terrain? Will you master the desert's ruthless challenges and rise to its daunting call? Or shall you join the lamentable ranks of those claimed by the desert, lost forever within its shifting dunes? Only time, and the fickle winds of fate, will tell.
 
------
 ### Setting
 
 The campaign takes place in the Sarab Valley, a region of vast desert partially enclosed by mountain ranges. 
@@ -17,7 +16,6 @@ Other smaller settlements dot the landscape but these are composed almost exclus
 
 A significant number of old ruins, lost places of worship and strange creatures also share the desert. Many holding interesting stories or treasure.
 
------
 ### What to expect
 
 The story and world building are devised entirely by myself. The general DND mythos is mostly unchanged but the setting is specific and has variations. If you are looking to intertwine your character with the setting its probably best to ask me and I'll help out :)
@@ -28,7 +26,6 @@ We are using the DnD system with a few homebrew rules. Many of which will be fam
 
 The campaign will include role play, combat (of course), mysteries and puzzles. So there will be something for everyone!
 
------
 ### Character Rules
 #### Point Buy
 We will be using a point buy system to ensure fairness among characters. 
@@ -91,13 +88,14 @@ Knives allow me to raise the stakes of a situation. Try to come up with at least
 * Every favoured item/heirloom +1 knife 
 * Every secret your character is keeping +1 knife
   
------
 ### Homebrew Rules
 So, these are not yet entirely worked out, but I'd like to give an idea for what you might expect.
+
 #### Environmental
 The desert is deadly to the uninitiated. Maintaining hydration, temperature and keeping stocked on rations is of paramount importance. Additionally, its easy to stand out among the unbroken yellow of the dunes.
 
 Likely, there will be a system of balanced punishment for failing to properly manage these things. Have a think about what your character might know regarding desert survival.
+
 #### Combat
 * *Flanking* - The same as we normally do it.
 * *Inspiration* - For particularly juicy role play and creativity with ideas.
