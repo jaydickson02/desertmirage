@@ -27,6 +27,10 @@ We are using the DnD system with a few homebrew rules. Many of which will be fam
 The campaign will include role play, combat (of course), mysteries and puzzles. So there will be something for everyone!
 
 ### Character Rules
+
+#### Level
+All characters will start at lvl 5. We will use a milestone based level up system.
+
 #### Point Buy
 We will be using a point buy system to ensure fairness among characters. 
 
