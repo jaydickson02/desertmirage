@@ -32,9 +32,9 @@ The campaign will include role play, combat (of course), mysteries and puzzles. 
 All characters will start at lvl 5. We will use a milestone based level up system.
 
 #### Point Buy
-We will be using a point buy system to ensure fairness among characters. 
+We will be using a point buy system to ensure fairness among characters.
 
-Use the following calculator to get your starting stats.  
+Use the following calculator to get your starting stats.
 
 [Point Buy](https://chicken-dinner.com/5e/5e-point-buy.html)
 
@@ -102,6 +102,8 @@ Likely, there will be a system of balanced punishment for failing to properly ma
 
 #### Combat
 * *Flanking* - The same as we normally do it.
-* *Inspiration* - For particularly juicy role play and creativity with ideas.
 * *Loonytunes Falling* - If made to fall and its not your turn you start falling at the end of your next turn. If you have a means of flight you must pass a relevant check to start flying. Even if normally you would not need too.
 * Others I've definitely missed.
+
+#### General
+* *Inspiration* - For particularly juicy role play and creativity with ideas.
