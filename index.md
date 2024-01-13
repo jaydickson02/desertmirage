@@ -62,12 +62,12 @@ There is always a pay off to having your character feel like it was part of the 
 You can start with anything you could have reasonably aquired in your adventures through the world. Provided they are not magical.
 
 * 500gp plus 1d10x25gp, normal starting equipment (Account for your background and remove/add gold as needed)
-* https://5e.tools/items.html#abacus_phb
+* [5e Tools](https://5e.tools/items.html#abacus_phb)
 
 Further to that. Pick a magic item of class Rare or lesser from one of the sources below. I will approve them but thats only to ensure they don't conflict with the setting.
 
-* https://5e.tools/items.html#abacus_phb
-* https://www.reddit.com/r/TheGriffonsSaddlebag/ (Custom Magic Items, there are lots have a look)
+* [5e Tools](https://5e.tools/items.html#abacus_phb)
+* [GriffonsSaddlebag](https://www.reddit.com/r/TheGriffonsSaddlebag/) (Custom Magic Items, there are lots have a look)
 
 #### What I want from you
 
