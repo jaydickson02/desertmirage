@@ -1,3 +1,7 @@
+## Navigation
+[Homebrew Rules](https://jaydickson02.github.io/desertmirage/rules)
+[Knowledge](https://jaydickson02.github.io/desertmirage/knowledge)
+
 ### Welcome
 
 Embark on a journey to Scorpions Rest, a city of resplendence, an oasis cradled within the labyrinthine arms of a rugged desert canyon. As the sole beacon of civilisation for countless leagues in every direction, traversing to this sanctuary of sand and stone demands no small measure of courage and grit. Yet, those brave enough to conquer the arid expanse are rewarded with a bustling city teeming with prospects, where whispered secrets lurk beneath the sand-swept streets. One of you was guided here by a weathered parchment—an ancient map bearing little more than the city's name and an enticing limerick—who could resist its call? 
