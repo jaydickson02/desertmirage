@@ -106,19 +106,3 @@ Knives allow me to raise the stakes of a situation. Try to come up with at least
 * Any discrimination experienced (i.e. fantasy racism) +1 knife
 * Every favoured item/heirloom +1 knife 
 * Every secret your character is keeping +1 knife
-  
-### Homebrew Rules
-So, these are not yet entirely worked out, but I'd like to give an idea for what you might expect.
-
-#### Environmental
-The desert is deadly to the uninitiated. Maintaining hydration, temperature and keeping stocked on rations is of paramount importance. Additionally, its easy to stand out among the unbroken yellow of the dunes.
-
-Likely, there will be a system of balanced punishment for failing to properly manage these things. Have a think about what your character might know regarding desert survival.
-
-#### Combat
-* *Flanking* - The same as we normally do it.
-* *Loonytunes Falling* - If made to fall and its not your turn you start falling at the end of your next turn. If you have a means of flight you must pass a relevant check to start flying. Even if normally you would not need too.
-* Others I've definitely missed.
-
-#### General
-* *Inspiration* - For particularly juicy role play and creativity with ideas.
