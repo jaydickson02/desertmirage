@@ -1,3 +1,7 @@
+# Homebrew Rules
+
+[Welcome](https://jaydickson02.github.io/desertmirage) | [Homebrew Rules](https://jaydickson02.github.io/desertmirage/rules) | [Knowledge](https://jaydickson02.github.io/desertmirage/knowledge)
+
 ### Resting
 
 ##### Short Rest
