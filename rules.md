@@ -49,7 +49,17 @@ On top of the stacking debuff additional effects occur at various levels of exha
 - Consuming your required Supply (1 Point per required amount)
 - Counteracting an effect (Ex. Bathing in cool water to relive heatstroke) (DM Discretion)
 
-### Will of the Hero
+### Combat
+* *Flanking* - The same as we normally do it.
+* *Loonytunes Falling* - If made to fall and its not your turn you start falling at the end of your next turn. If you have a means of flight you must pass a relevant check to start flying. Even if normally you would not need too.
+* *Death Saves* - Death saves will be rolled in secret. Either by DM or Player.
+
+#### Will of the Hero
 In a moment of great need those with fortitude can find it in themselves to move faster and think quicker than ever before.
 
 Once a day you can manipulate the initiative order and take your turn next, you can choose to do this before or after legendary actions are taken. Taking this action forfeits your turn for that round. Further you immediately gain six points of exhaustion at the conclusion of your quickened turn.
+
+
+### General
+* *Inspiration* - For particularly juicy role play and creativity with ideas.
+
