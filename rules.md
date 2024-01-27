@@ -8,7 +8,7 @@
 A Short Rest represents taking a moment to breath and recover from the rigours of battle and exploration. It takes half-an-hour to complete.
 
 ##### Nights Rest
-A Nights Rest takes 8 hours to complete. It represents taking the night to recover from the rigours of the day. It function similar to a short rest, however, you also gain one of the following benefits:
+A Nights Rest takes 8 hours to complete. It represents taking the night to recover from the rigours of the day. It functions similar to a short rest, however, you also gain one of the following benefits:
 - Recover your proficiency bonus in spell slots/points. If you are level five, this could be one level three spell slot, or three level on spell slots, or any other combination that would equal three.
 - Recover your proficiency bonus worth of hit dice.
 - Recover a single use of a class feature that would normally require a long rest to recover.
