@@ -30,7 +30,7 @@ Exhaustion is different in this campaign. Every two levels of exhaustion adds a 
 On top of the stacking debuff additional effects occur at various levels of exhaustion.
 - At sixth level all speeds are halved.
 - At eight levels your AC is reduced by 5 Points.
-- At ten levels all enemies gain advantage on attacks made against you.
+- At ten levels all attacks made by you have disadvantage.
 - At twelve levels of exhaustion you die.
 
 ##### Gaining Exhaustion
