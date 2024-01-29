@@ -23,3 +23,7 @@ Scorpions Rest has entered agreements with the Sandsailers, to deliver water and
 These outposts are primarily set at the three flat entrances to the Sarab Valley. The largest of which is Serephs Keep guarding the northern entrance.
 
 The city is a hub for adventurers, explorers, and nomads, adding to its cultural diversity. Many seek to find their fortune in the desert which is full of unexplored ruins, caves and mysteries.
+
+##### Red Sands
+Bury their enemies in the desert up to their heads.
+
